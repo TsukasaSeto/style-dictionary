@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TsukasaSeto/style-dictionary/issues"
   },
-  "homepage": "https://github.com/TsukasaSeto/style-dictionary#readme"
+  "homepage": "https://github.com/TsukasaSeto/style-dictionary#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.7.1"
+  }
 }
