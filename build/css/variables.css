@@ -1,19 +1,19 @@
 /**
  * Do not edit directly
- * Generated on Thu, 13 Oct 2022 09:53:11 GMT
+ * Generated on Thu, 13 Oct 2022 10:22:05 GMT
  */
 
 :root {
-  --color-base-gray-light: #cccccc;
-  --color-base-gray-medium: #999999;
-  --color-base-gray-dark: #111111;
-  --color-base-red: #ff0000;
-  --color-base-green: #00ff00;
-  --color-font-base: #ff0000;
-  --color-font-secondary: #00ff00;
-  --color-font-tertiary: #cccccc;
-  --size-font-small: 0.75rem; /* the small size of the font */
-  --size-font-medium: 1rem; /* the medium size of the font */
   --size-font-large: 2rem; /* the large size of the font */
-  --size-font-base: 1rem; /* the base size of the font */
+  --size-font-medium: 1rem; /* the medium size of the font */
+  --size-font-small: 0.75rem; /* the small size of the font */
+  --color-base-green: #00ff00;
+  --color-base-red: #ff0000;
+  --color-base-gray-dark: #111111;
+  --color-base-gray-medium: #999999;
+  --color-base-gray-light: #cccccc;
+  --size-font-base: var(--size-font-medium); /* the base size of the font */
+  --color-font-tertiary: var(--color-base-gray-light);
+  --color-font-secondary: var(--color-base-green);
+  --color-font-base: var(--color-base-red);
 }
